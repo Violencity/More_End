@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "more_end:block/block_of_endium"
+  }
+}

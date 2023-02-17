@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 150,
+  "experience": 1.5,
+  "ingredient": {
+    "item": "more_end:raw_enderite"
+  },
+  "result": "more_end:purified_enderite"
+}

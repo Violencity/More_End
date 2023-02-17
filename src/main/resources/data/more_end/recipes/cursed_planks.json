@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "more_end:cursed_logs"
+    }
+  ],
+  "result": {
+    "item": "more_end:cursed_planks",
+    "count": 4
+  }
+}

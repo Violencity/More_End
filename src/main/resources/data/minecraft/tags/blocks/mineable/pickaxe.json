@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "more_end:enderite_ore",
+    "more_end:block_of_raw_enderite",
+    "more_end:block_of_enderite",
+    "more_end:block_of_endium"
+  ]
+}

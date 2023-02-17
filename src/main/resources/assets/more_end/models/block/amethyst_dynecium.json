@@ -1,0 +1,6 @@
+{
+  "parent": "block/dirt",
+  "textures": {
+    "all": "more_end:block/amethyst_dynecium"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#more_end:amethyst_logs",
+    "#more_end:cursed_logs",
+    "#more_end:adestine_logs",
+    "#more_end:yosmite_logs",
+    "#more_end:serdic_logs",
+    "#more_end:xenicia_logs"
+  ]
+}

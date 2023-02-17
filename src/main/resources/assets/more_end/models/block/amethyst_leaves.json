@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "more_end:block/amethyst_leaves"
+  }
+}
